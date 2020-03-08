@@ -1,2 +1,2 @@
 # NCCU_ProgrammingLanguage2
-NCCU Programming Language 2 - Java
+Programming Language 2 - JAVA (2020)
