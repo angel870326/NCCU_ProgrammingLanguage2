@@ -8,7 +8,6 @@ import javax.swing.JFrame;
 public class MyTimer {
 	
 	// 3
-	
 	private static final int FRAME_WIDTH = 100;
 	private static final int FRAME_HEIGHT = 60;
 	
