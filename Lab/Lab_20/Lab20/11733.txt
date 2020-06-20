@@ -1,0 +1,5 @@
+Invoice number: 11733
+   Product_Code Description             Price Quantity Subtotal
+        116-064 Toaster                 24.95        2    49.90
+        643-119 Car vacuum              19.99        1    19.99
+Total: 69.89

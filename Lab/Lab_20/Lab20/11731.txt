@@ -1,0 +1,6 @@
+Invoice number: 11731
+   Product_Code Description             Price Quantity Subtotal
+        116-064 Toaster                 24.95        3    74.85
+        257-535 Hair dryer              29.95        1    29.95
+        643-119 Car vacuum              19.99        2    39.98
+Total: 144.78

@@ -1,0 +1,4 @@
+Invoice number: 11732
+   Product_Code Description             Price Quantity Subtotal
+        116-064 Toaster                 24.95       10   249.50
+Total: 249.5
